@@ -1,6 +1,6 @@
 ## Crypto Market Rate
 
-A website to helps you show top cryptocurrencies based on currency price, market capitalization and overall circulating supply. ALso you can as well see the trending coins and the market exchange rate.
+A dahboard that shows top cryptocurrencies based on currency price, market capitalization and overall circulating supply. ALso you can as well see the trending coins and the market exchange rate.
 
 ![Vue-Crypto-Dashboard](https://github.com/kodezer1/Vue-Crypto-Dashboard/blob/aec4a8ce54fc7b580e3f8015c042f04500aa720f/assets/20220926_002046.gif?raw=true)
 <br />
