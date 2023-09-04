@@ -2,7 +2,7 @@
 
 A website to helps you show top cryptocurrencies based on currency price, market capitalization and overall circulating supply. ALso you can as well see the trending coins and the market exchange rate.
 
-![Crypto-market-rate](https://github.com/clinton9ice/Crypto-Market-Rate/blob/aec4a8ce54fc7b580e3f8015c042f04500aa720f/assets/20220926_002046.gif?raw=true)
+![Vue-Crypto-Dashboard](https://github.com/kodezer1/Vue-Crypto-Dashboard/blob/aec4a8ce54fc7b580e3f8015c042f04500aa720f/assets/20220926_002046.gif?raw=true)
 <br />
 
 ### ⚒️ Languages / Tools
@@ -38,7 +38,7 @@ A website to helps you show top cryptocurrencies based on currency price, market
 
 ## 🧑🏾‍💻 Demo
 
-Check out the website: [Crypto Market Rate](https://crypto-market-price.vercel.app/)
+Check out the website: [Vue-Crypto-Dashboard](https://Vue-Crypto-Dashboard.vercel.app/)
 
 ## 👇🏽 Prerequisites
 
@@ -49,7 +49,7 @@ Before installation, please make sure you have already installed the following t
 
 ## 🛠️ Installation Steps
 
-1. [Fork](https://github.com/clinton9ice/Crypto-Market-Rate/fork) the project. Click on the <a href="https://github.com/Dun-sin/Code-Magic/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="15" width="15"></a> icon in the top right to get started
+1. [Fork](https://github.com/kodezero1/Vue-Crypto-Dashboard/fork) the project. Click on the <a href="https://github.com/Dun-sin/Code-Magic/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="15" width="15"></a> icon in the top right to get started
 2. Clone the project, you can use the following command:
 
 ```bash
